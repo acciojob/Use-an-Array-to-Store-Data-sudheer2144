@@ -1,3 +1,2 @@
 
-let yourArray=['one',2,true];
-console.log(yourArray);
+let yourArray=["'one'",2,true];
